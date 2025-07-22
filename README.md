@@ -1,7 +1,7 @@
 # CafeMac Meal Swipe Companion
 
 
-*Team Members:* [Abdullah Fare, Karim Amra, Sohail Mohammed]
+*Team Members:* [Abdullah Fare, Karim Amra, Sohail Khan Mohammed]
 
 
 ## Project Description
